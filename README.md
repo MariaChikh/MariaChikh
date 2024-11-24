@@ -1,7 +1,7 @@
 Hi 👋 My name is Mariya Chikhireva
 ==================================
 
-Hexlet studend. Studying Python.
+Hexlet student. Studying Python.
 --------------------------------
 
 I was a lawyer for 10 years of my life, but now i'm student and studying Python. I want to become a professional Python-developer.
